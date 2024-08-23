@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/css/main.5451445f.css",
+    "main.js": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/js/main.4afa56b6.js",
+    "static/media/product1.png": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/media/product1.388cbb9be4bb4c578daa.png",
+    "static/media/product2.png": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/media/product2.5fb1b2a92bc1fb6bac1c.png",
+    "static/media/product4.png": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/media/product4.55922a105ac69013ee6b.png",
+    "static/media/product3.png": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/media/product3.fd311736311e599bef65.png",
+    "index.html": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/index.html",
+    "main.5451445f.css.map": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/css/main.5451445f.css.map",
+    "main.4afa56b6.js.map": "/Seenumaheshwaran/Shopping-Cart-using-ReactJS/static/js/main.4afa56b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5451445f.css",
+    "static/js/main.4afa56b6.js"
+  ]
+}
